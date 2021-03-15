@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Leonardo Nogueira
+- 👀 I’m interested in WEB && Mobile Development
+- 🌱 I’m currently learning Astrophisics
+- 💞️ I’m looking to collaborate on JavaScripts repo
+- 📫 How to reach me - mail leonardonogu037@gmail.com
